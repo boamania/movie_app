@@ -1,13 +1,13 @@
 {
-  "main.css": "/movie_app/static/css/main.59e8699d.chunk.css",
-  "main.js": "/movie_app/static/js/main.efb688e9.chunk.js",
-  "main.js.map": "/movie_app/static/js/main.efb688e9.chunk.js.map",
-  "static/js/1.0360f5ad.chunk.js": "/movie_app/static/js/1.0360f5ad.chunk.js",
-  "static/js/1.0360f5ad.chunk.js.map": "/movie_app/static/js/1.0360f5ad.chunk.js.map",
-  "runtime~main.js": "/movie_app/static/js/runtime~main.f9521ac5.js",
-  "runtime~main.js.map": "/movie_app/static/js/runtime~main.f9521ac5.js.map",
-  "static/css/main.59e8699d.chunk.css.map": "/movie_app/static/css/main.59e8699d.chunk.css.map",
-  "index.html": "/movie_app/index.html",
-  "precache-manifest.d4c6d374f12184569cc392417b1cd7c7.js": "/movie_app/precache-manifest.d4c6d374f12184569cc392417b1cd7c7.js",
-  "service-worker.js": "/movie_app/service-worker.js"
+  "main.css": "/helloworld/static/css/main.59e8699d.chunk.css",
+  "main.js": "/helloworld/static/js/main.98b61e94.chunk.js",
+  "main.js.map": "/helloworld/static/js/main.98b61e94.chunk.js.map",
+  "static/js/1.0360f5ad.chunk.js": "/helloworld/static/js/1.0360f5ad.chunk.js",
+  "static/js/1.0360f5ad.chunk.js.map": "/helloworld/static/js/1.0360f5ad.chunk.js.map",
+  "runtime~main.js": "/helloworld/static/js/runtime~main.607eba3d.js",
+  "runtime~main.js.map": "/helloworld/static/js/runtime~main.607eba3d.js.map",
+  "static/css/main.59e8699d.chunk.css.map": "/helloworld/static/css/main.59e8699d.chunk.css.map",
+  "index.html": "/helloworld/index.html",
+  "precache-manifest.92a0fa97ee3e1e9fce70ae03121c0ad6.js": "/helloworld/precache-manifest.92a0fa97ee3e1e9fce70ae03121c0ad6.js",
+  "service-worker.js": "/helloworld/service-worker.js"
 }
